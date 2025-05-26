@@ -2,7 +2,7 @@
   "name": "mulapal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mentormacky.github.io/mulapalinfo",
+  "homepage": "https://mackymentor.github.io/mulapalinfo",
   "type": "module",
   "scripts": {
     "dev": "vite",
